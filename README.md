@@ -1,4 +1,4 @@
 # Foundations
 
-List of things from **LEDE 2018**
+List of Python exercises from **Columbia's Lede Program 2018**
 
